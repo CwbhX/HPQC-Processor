@@ -1,7 +1,7 @@
 # HPQC Processor
 
-Convert Excel spreadsheets (the template included in this repository) to a combined spreadsheet capable of being loaded by HPQC into HPQC.
-The output can also be loaded by Testrail as well.
+Convert Excel spreadsheets (the template included in this repository) to a combined spreadsheet capable of being imported into [HPQC](https://en.wikipedia.org/wiki/HP_Quality_Center).
+The output can also be loaded by [Testrail](http://www.gurock.com/testrail/) as well.
 
 ## Getting Started
 
