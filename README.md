@@ -11,9 +11,9 @@ This is a command-line only application
 
 Make sure you have the following things on your system
 
-* Python 3
-* OpenPyxl
-* PyYAML
+* [Python 3](https://www.python.org/getit/)
+* [OpenPyxl](https://pypi.org/project/openpyxl/)
+* [PyYAML](https://pypi.org/project/pyaml/)
 
 ## Usage
 
