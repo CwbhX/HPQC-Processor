@@ -1,7 +1,7 @@
 # HPQC Processor
 
-Translate the multiple files of the template for use in making test scripts which are loadable by HPQC.
-It also works with Testrail
+Convert Excel spreadsheets (the template included in this repository) to a combined spreadsheet capable of being loaded by HPQC into HPQC.
+The output can also be loaded by Testrail as well.
 
 ## Getting Started
 
