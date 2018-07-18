@@ -1,0 +1,8 @@
+nameKey: Test Scenario ID
+descriptionKey: Test Scenario
+additionalInfoKey: Additional Information ## If not None will be appened to end of description
+priorityKey: Priority
+authorKey: Test Author
+statusKey: None
+stepsHeader: Step(s)
+sheetName: active # If set to active will take the first sheet, otherwise specify the name
